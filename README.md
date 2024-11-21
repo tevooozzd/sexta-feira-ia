@@ -1,4 +1,4 @@
-#### SEXTA-FEIRA  (INTELIGENT ARTIFICIAL - Version 1.0)
+## SEXTA-FEIRA  (INTELIGENT ARTIFICIAL - Version 1.0)
 
 This is the first AI project developed with Python, version 1.0. The AI was created with the goal of providing a simple yet functional foundation for implementing machine learning and artificial intelligence algorithms. The current version features a basic model, suitable for beginners or anyone looking to explore how AI fundamentals can be applied in a practical setting.
 
